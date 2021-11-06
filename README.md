@@ -14,7 +14,7 @@
 
 <img align="left" width="170" height="170" alt="GIF" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/source.gif" />
 
-Let me introduce myself :slightly_smiling_face: I am Aritra, as you all coding is my hobby and life style. I met coding at the very beginning of my academic career. And now I have about 5 years of Web development and AI/ML devlopment experience. I am currently working at CSIR Labs as an Cloud developer. Besides I am a undergraduate at SRMIST. I couldn't spare a lot of time for my personal development due to my busy student life, I think it's time to get more active in Github, follow me :metal: 
+Let me introduce myself :slightly_smiling_face: I am Aritra, as you all coding is my hobby and life style. I met coding at the very beginning of my academic career. And now I have about 5 years of Web development and AI/ML devlopment experience. I am currently working at CSIR Labs as an Cloud Developer Intern. Besides I am a undergraduate at SRMIST. I couldn't spare a lot of time for my personal development due to my busy student life, I think it's time to get more active in Github, follow me :metal: 
   
 [![GitHub followers](https://img.shields.io/github/followers/aritra1804?label=Follow&style=social)](https://github.com/aritra1804/?tab=follow)
 
