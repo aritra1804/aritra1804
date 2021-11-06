@@ -19,6 +19,7 @@ Let me introduce myself :slightly_smiling_face: I am Aritra, as you all coding i
 [![GitHub followers](https://img.shields.io/github/followers/aritra1804?label=Follow&style=social)](https://github.com/aritra1804/?tab=follow)
 
 
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
