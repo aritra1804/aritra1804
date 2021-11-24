@@ -1,4 +1,7 @@
-# Aritra Dutta 👨🏻‍💻 Software Engineer
+<h1 align="center"> Aritra Dutta 👨🏻‍💻 Software Engineer</h1>
+<p align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;IoT%20|%20AI%20|%20ML%20Enthusiast;Cloud%20Developer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+</p>
 
 [![Twitter Badge](https://img.shields.io/badge/-AritraDutta-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AritraD30189522)](https://twitter.com/AritraD30189522) 
 [![Linkedin Badge](https://img.shields.io/badge/-AritraDutta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aritra-dutta18/)](https://www.linkedin.com/in/aritra-dutta18/) 
@@ -36,9 +39,28 @@ Let me introduce myself :slightly_smiling_face: I am Aritra, as you all coding i
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
+## 📊 Github Stats 
+
+### <b>🔥 Streak Stats:</b>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18" /></p>
 
 
-<div>
+### <b>💻 GitHub Profile Stats:</b>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/aritra1804"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aritra1804&show_icons=true&locale=en&theme=algolia" alt="aritra1804" height="192px"/></a>
+	</p>
+	<p  align="center">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aritra1804&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aritra1804" height="192px"/>
+	</p>
+  <br/>
+  
+
+
+
+<!-- /Old Widgets -->
+<!-- <div> 
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
@@ -50,7 +72,10 @@ Let me introduce myself :slightly_smiling_face: I am Aritra, as you all coding i
 ![My github status](https://github-readme-stats.vercel.app/api?username=aritra1804&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aritra1804&layout=compact)
 
-
+ -->
+ 
+ 
+ 
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aritra1804&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
