@@ -78,6 +78,6 @@ Let me introduce myself :slightly_smiling_face: I am Aritra, as you all coding i
  
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aritra1804&theme=nord&column=7)](https://github.com/pushpita05/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aritra1804&theme=nord&column=7)](https://github.com/aritra1804/github-profile-trophy)
 
 
