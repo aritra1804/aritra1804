@@ -43,7 +43,7 @@ Let me introduce myself :slightly_smiling_face: I am Aritra, as you all coding i
 
 ### <b>🔥 Streak Stats:</b>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aritra1804&theme=algolia" alt="candida18" /></p>
 
 
 ### <b>💻 GitHub Profile Stats:</b>
