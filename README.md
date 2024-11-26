@@ -1,4 +1,4 @@
-<h1 align="center"> Aritra Dutta 👨🏻‍💻 Software Engineer</h1>
+<h1 align="center"> Aritra Dutta 👨🏻‍💻 Data Enthusiast</h1>
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;IoT%20|%20AI%20|%20ML%20Enthusiast;Cloud%20Developer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
@@ -15,8 +15,9 @@
 
 <img align="left" width="170" height="170" alt="GIF" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/source.gif" />
 
-Let me introduce myself :slightly_smiling_face: I am Aritra, as you all coding is my hobby and life style. I met coding at the very beginning of my academic career. And now I have about 5 years of Web development and AI/ML devlopment experience. I am currently working at Samsung R&D as a Research Intern. Besides I am a graduate student at Carnegie Mellon University. I couldn't spare a lot of time for my personal development due to my busy student life, I think it's time to get more active in Github, follow me :metal: 
-  
+Hi there! 😊 I'm Aritra, and as you all, coding is my hobby and lifestyle. My journey with coding began at the very start of my academic career, and over time, I've gained about 5 years of experience in web development and AI/ML development.
+
+I am currently a graduate student at Carnegie Mellon University. Balancing a busy student life and professional growth has been challenging, but I've decided it's time to get more active on GitHub and share my work with the community. Let's connect, collaborate, and grow together—feel free to follow me! 🤘
 [![GitHub followers](https://img.shields.io/github/followers/aritra1804?label=Follow&style=social)](https://github.com/aritra1804/?tab=follow)
 
 
